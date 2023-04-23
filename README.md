@@ -24,4 +24,5 @@
 #### Пример запуска
 ---
 Windows: `read_write.exe usersFile messagesFile`
+
 Linux: `./read_write usersFile messagesFile`
